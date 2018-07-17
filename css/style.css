@@ -1,9 +1,15 @@
 .story{
 	margin-top:-1rem;
-		margin-left:20rem;
+	margin-left:16rem;
 }
 
-
+@media (max-width: 439px) {
+.story{
+	margin-left:2rem;
+	margin-left:8rem;
+	
+}
+}
 
 .nameandprofession{
 text-align:center; 
